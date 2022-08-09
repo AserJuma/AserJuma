@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a web app**
 - 🌱 I’m currently learning **JavaScript frameworks**
-- ⚡ I am interested in **Reading philosophy or fiction, watching Rugby, and cooking.**
+- ⚡ I am interested in **Reading philosophy/fiction, watching Rugby, and cooking.**
 
 
 <h3 align="left">Languages and Tools:</h3>
