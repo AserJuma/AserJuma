@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aser</h1>
-<h3 align="center">A passionate CS student from Jordan, based out of Budapest, Hungary</h3>
+<h3 align="center">A passionate CS student living in Budapest, Hungary</h3>
 
 <img align="right" src="https://media3.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="400" frameBorder="0"/>
 
