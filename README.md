@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a web app**
 - 🌱 I’m currently learning about **JavaScript frameworks**
-- ⚡ I am interested in **Deep learning, neural networks.**
+- ⚡ I am interested in **Graph theory, deep learning, neural networks.**
 - ⚡ My interests are **reading novels, watching Rugby, hiking, and cooking.**
 
 <h3 align="left">Languages and Tools:</h3>
