@@ -3,8 +3,8 @@
 
 <img align="right" src="https://media3.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="400" frameBorder="0"/>
 
-- 🔭 I’m currently working on **a web app**
-- 🌱 I’m currently learning about **JavaScript frameworks**
+- 🔭 I’m currently working on **react/mysql web app**
+- 🌱 I’m currently learning about **JavaScript frameworks/libraries**
 - ⚡ I am interested in **Graph theory, deep learning, neural networks.**
 
 <h3 align="left">Languages and Tools:</h3>
