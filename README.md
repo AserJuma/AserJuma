@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Aser</h1>
 <h3 align="center">A passionate CS student living in Budapest, Hungary</h3>
 
-<img align="right" src="https://media1.giphy.com/media/LsKZrtZt76PL96JdaV/giphy.gif" frameBorder="0"/>
+![giphy (1)](https://user-images.githubusercontent.com/78300428/225023513-f5caa4c8-a915-42b1-8366-719e86211eac.gif)
 
 - 🔭 I’m currently working on **react/mysql web app**
 - 🌱 I’m currently learning about **JavaScript frameworks/libraries**
